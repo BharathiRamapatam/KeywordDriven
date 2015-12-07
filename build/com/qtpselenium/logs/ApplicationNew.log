@@ -1,0 +1,134 @@
+07/12/2015 19:18:49 devpinoyLogger Hello
+07/12/2015 19:18:49 devpinoyLogger gaining access to properties files
+07/12/2015 19:18:49 devpinoyLogger Intialize Suite xlsx
+07/12/2015 19:18:52 devpinoyLogger Check Items -- N
+07/12/2015 19:18:52 devpinoyLogger Search Suite -- N
+07/12/2015 19:18:52 devpinoyLogger C Suite -- Y
+07/12/2015 19:18:52 devpinoyLogger ******Executing the Suite******C Suite
+07/12/2015 19:18:52 devpinoyLogger LoginTest -- N
+07/12/2015 19:18:52 devpinoyLogger InvalidLogin -- N
+07/12/2015 19:18:52 devpinoyLogger PrizesAndResult -- Y
+07/12/2015 19:18:52 devpinoyLogger Executing the test case -> PrizesAndResult
+07/12/2015 19:18:52 devpinoyLogger Iteration number 1
+07/12/2015 19:18:52 devpinoyLogger openBrowser
+07/12/2015 19:18:52 devpinoyLogger Opening browser
+07/12/2015 19:19:10 devpinoyLogger PASS
+07/12/2015 19:19:10 devpinoyLogger navigate
+07/12/2015 19:19:10 devpinoyLogger Navigating to URL
+07/12/2015 19:19:40 devpinoyLogger PASS
+07/12/2015 19:19:41 devpinoyLogger clickPrizesAndResult
+07/12/2015 19:19:41 devpinoyLogger Clicking on Prizes and Result link
+07/12/2015 19:19:45 devpinoyLogger PASS
+07/12/2015 19:19:54 devpinoyLogger inputviewByGame
+07/12/2015 19:19:54 devpinoyLogger writing into view by game input box - Prises and result
+07/12/2015 19:20:10 devpinoyLogger PASS
+07/12/2015 19:20:11 devpinoyLogger inputviewByDraw
+07/12/2015 19:20:11 devpinoyLogger writing into view by Draw input box - Prises and result
+07/12/2015 19:20:19 devpinoyLogger PASS
+07/12/2015 19:20:20 devpinoyLogger inputviewByDateYear
+07/12/2015 19:20:20 devpinoyLogger writing into view by Year input box - Prises and result
+07/12/2015 19:20:28 devpinoyLogger PASS
+07/12/2015 19:20:29 devpinoyLogger inputviewByDateMonth
+07/12/2015 19:20:29 devpinoyLogger writing into view by month input box - Prises and result
+07/12/2015 19:20:37 devpinoyLogger PASS
+07/12/2015 19:20:38 devpinoyLogger inputviewByDate
+07/12/2015 19:20:38 devpinoyLogger input date prizes and result
+07/12/2015 19:20:38 devpinoyLogger PASS
+07/12/2015 19:20:39 devpinoyLogger clickPrizesAndResultSubmit
+07/12/2015 19:20:39 devpinoyLogger Clicking on Prizes and Result submit button
+07/12/2015 19:21:02 devpinoyLogger PASS
+07/12/2015 19:21:03 devpinoyLogger getDate
+07/12/2015 19:21:03 devpinoyLogger getting text day and month
+07/12/2015 19:21:03 devpinoyLogger PASS02 December 2015
+07/12/2015 19:21:04 devpinoyLogger verify54321ResultsNumbers
+07/12/2015 19:21:04 devpinoyLogger Verifying 54321 results numbers 
+07/12/2015 19:21:04 devpinoyLogger PASS
+07/12/2015 19:21:06 devpinoyLogger verify54321BonusNumbers
+07/12/2015 19:21:06 devpinoyLogger Verifying 54321 bonus numbers
+07/12/2015 19:21:06 devpinoyLogger PASS
+07/12/2015 19:21:07 devpinoyLogger closingBrowser
+07/12/2015 19:21:07 devpinoyLogger Closing the browser
+07/12/2015 19:21:07 devpinoyLogger PASS
+07/12/2015 19:21:12 devpinoyLogger Iteration number 2
+07/12/2015 19:21:12 devpinoyLogger openBrowser
+07/12/2015 19:21:12 devpinoyLogger Opening browser
+07/12/2015 19:21:25 devpinoyLogger PASS
+07/12/2015 19:21:25 devpinoyLogger navigate
+07/12/2015 19:21:25 devpinoyLogger Navigating to URL
+07/12/2015 19:21:46 devpinoyLogger PASS
+07/12/2015 19:21:48 devpinoyLogger clickPrizesAndResult
+07/12/2015 19:21:48 devpinoyLogger Clicking on Prizes and Result link
+07/12/2015 19:21:51 devpinoyLogger PASS
+07/12/2015 19:22:01 devpinoyLogger inputviewByGame
+07/12/2015 19:22:01 devpinoyLogger writing into view by game input box - Prises and result
+07/12/2015 19:22:18 devpinoyLogger PASS
+07/12/2015 19:22:19 devpinoyLogger inputviewByDraw
+07/12/2015 19:22:19 devpinoyLogger writing into view by Draw input box - Prises and result
+07/12/2015 19:22:27 devpinoyLogger PASS
+07/12/2015 19:22:28 devpinoyLogger inputviewByDateYear
+07/12/2015 19:22:28 devpinoyLogger writing into view by Year input box - Prises and result
+07/12/2015 19:22:36 devpinoyLogger PASS
+07/12/2015 19:22:37 devpinoyLogger inputviewByDateMonth
+07/12/2015 19:22:37 devpinoyLogger writing into view by month input box - Prises and result
+07/12/2015 19:22:45 devpinoyLogger PASS
+07/12/2015 19:22:46 devpinoyLogger inputviewByDate
+07/12/2015 19:22:46 devpinoyLogger input date prizes and result
+07/12/2015 19:22:46 devpinoyLogger PASS
+07/12/2015 19:22:47 devpinoyLogger clickPrizesAndResultSubmit
+07/12/2015 19:22:47 devpinoyLogger Clicking on Prizes and Result submit button
+07/12/2015 19:23:05 devpinoyLogger PASS
+07/12/2015 19:23:06 devpinoyLogger getDate
+07/12/2015 19:23:06 devpinoyLogger getting text day and month
+07/12/2015 19:23:06 devpinoyLogger PASS05 December 2015
+07/12/2015 19:23:07 devpinoyLogger verify54321ResultsNumbers
+07/12/2015 19:23:07 devpinoyLogger Verifying 54321 results numbers 
+07/12/2015 19:23:07 devpinoyLogger PASS
+07/12/2015 19:23:08 devpinoyLogger verify54321BonusNumbers
+07/12/2015 19:23:08 devpinoyLogger Verifying 54321 bonus numbers
+07/12/2015 19:23:08 devpinoyLogger PASS
+07/12/2015 19:23:09 devpinoyLogger closingBrowser
+07/12/2015 19:23:09 devpinoyLogger Closing the browser
+07/12/2015 19:23:09 devpinoyLogger PASS
+07/12/2015 19:23:11 devpinoyLogger Iteration number 3
+07/12/2015 19:23:11 devpinoyLogger openBrowser
+07/12/2015 19:23:11 devpinoyLogger Opening browser
+07/12/2015 19:23:23 devpinoyLogger PASS
+07/12/2015 19:23:24 devpinoyLogger navigate
+07/12/2015 19:23:24 devpinoyLogger Navigating to URL
+07/12/2015 19:23:54 devpinoyLogger PASS
+07/12/2015 19:23:56 devpinoyLogger clickPrizesAndResult
+07/12/2015 19:23:56 devpinoyLogger Clicking on Prizes and Result link
+07/12/2015 19:23:59 devpinoyLogger PASS
+07/12/2015 19:24:10 devpinoyLogger inputviewByGame
+07/12/2015 19:24:10 devpinoyLogger writing into view by game input box - Prises and result
+07/12/2015 19:24:26 devpinoyLogger PASS
+07/12/2015 19:24:27 devpinoyLogger inputviewByDraw
+07/12/2015 19:24:27 devpinoyLogger writing into view by Draw input box - Prises and result
+07/12/2015 19:24:35 devpinoyLogger PASS
+07/12/2015 19:24:36 devpinoyLogger inputviewByDateYear
+07/12/2015 19:24:36 devpinoyLogger writing into view by Year input box - Prises and result
+07/12/2015 19:24:44 devpinoyLogger PASS
+07/12/2015 19:24:45 devpinoyLogger inputviewByDateMonth
+07/12/2015 19:24:45 devpinoyLogger writing into view by month input box - Prises and result
+07/12/2015 19:24:53 devpinoyLogger PASS
+07/12/2015 19:24:54 devpinoyLogger inputviewByDate
+07/12/2015 19:24:54 devpinoyLogger input date prizes and result
+07/12/2015 19:24:55 devpinoyLogger PASS
+07/12/2015 19:25:11 devpinoyLogger clickPrizesAndResultSubmit
+07/12/2015 19:25:11 devpinoyLogger Clicking on Prizes and Result submit button
+07/12/2015 19:25:32 devpinoyLogger PASS
+07/12/2015 19:25:33 devpinoyLogger getDate
+07/12/2015 19:25:33 devpinoyLogger getting text day and month
+07/12/2015 19:25:33 devpinoyLogger PASS28 November 2015
+07/12/2015 19:25:34 devpinoyLogger verify54321ResultsNumbers
+07/12/2015 19:25:34 devpinoyLogger Verifying 54321 results numbers 
+07/12/2015 19:25:34 devpinoyLogger PASS
+07/12/2015 19:25:36 devpinoyLogger verify54321BonusNumbers
+07/12/2015 19:25:36 devpinoyLogger Verifying 54321 bonus numbers
+07/12/2015 19:25:36 devpinoyLogger PASS
+07/12/2015 19:25:37 devpinoyLogger closingBrowser
+07/12/2015 19:25:37 devpinoyLogger Closing the browser
+07/12/2015 19:25:37 devpinoyLogger PASS
+07/12/2015 19:25:38 devpinoyLogger Iteration number 4
+07/12/2015 19:25:38 devpinoyLogger Iteration number 5
+07/12/2015 19:25:38 devpinoyLogger Iteration number 6
